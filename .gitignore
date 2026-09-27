@@ -1,0 +1,5 @@
+# Odin build artifacts
+capstone/http-server/server
+
+# macOS
+.DS_Store
